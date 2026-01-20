@@ -6,3 +6,6 @@ void main()
 {
 printf("Hello sir");
 }
+{
+print("Wlcome");
+}
